@@ -1,0 +1,12 @@
+h1 {
+  text-align: center;
+  color: rgb(2, 41, 63);
+}
+p {
+  text-align: center;
+}
+#catNfish {
+  max-width: 300px;
+  display: block;
+  margin: 0 auto;
+}
